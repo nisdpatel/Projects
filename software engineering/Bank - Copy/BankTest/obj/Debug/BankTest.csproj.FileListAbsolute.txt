@@ -1,0 +1,15 @@
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\BankTest.dll
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\BankTest.pdb
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\Bank.dll
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\Bank.pdb
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nisdpate\Desktop\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nisdpate\Desktop\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\nisdpate\Desktop\Bank\BankTest\obj\Debug\BankTest.csproj.CoreCompileInputs.cache
+C:\Users\nisdpate\Desktop\Bank\BankTest\obj\Debug\BankTest.dll
+C:\Users\nisdpate\Desktop\Bank\BankTest\obj\Debug\BankTest.pdb

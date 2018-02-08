@@ -1,0 +1,8 @@
+C:\Users\nisdpate\Desktop\Bank\Bank\bin\Debug\netstandard1.4\Bank.deps.json
+C:\Users\nisdpate\Desktop\Bank\Bank\obj\Debug\netstandard1.4\Bank.csprojResolveAssemblyReference.cache
+C:\Users\nisdpate\Desktop\Bank\Bank\obj\Debug\netstandard1.4\Bank.csproj.CoreCompileInputs.cache
+C:\Users\nisdpate\Desktop\Bank\Bank\obj\Debug\netstandard1.4\Bank.AssemblyInfo.cs
+C:\Users\nisdpate\Desktop\Bank\Bank\bin\Debug\netstandard1.4\Bank.dll
+C:\Users\nisdpate\Desktop\Bank\Bank\bin\Debug\netstandard1.4\Bank.pdb
+C:\Users\nisdpate\Desktop\Bank\Bank\obj\Debug\netstandard1.4\Bank.dll
+C:\Users\nisdpate\Desktop\Bank\Bank\obj\Debug\netstandard1.4\Bank.pdb
