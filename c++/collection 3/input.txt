@@ -1,0 +1,20 @@
+Nisha Patel
+Sample Album
+10 2014 15.00
+Jazz
+Cody Robertson
+Programmer Blues
+13 2015 20.00
+R&B
+Nisha Patel
+Sample Album 2: The Sequel
+11 2015 17.50
+Dubstep
+Panic! At the Disco
+Death of a Bachelor
+3 2016 20.00
+Alternative
+One Direction
+Four
+14 2014 25.00
+Pop
