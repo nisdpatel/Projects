@@ -1,0 +1,33 @@
+<Nisha Patel>
+<CSCI 430>
+<Fall, 2017>
+<1: Merge Sort with ordered, reverse, and random data>
+
+Implementation:
+<Describe experience implementing algorithm(s).>
+I chose Python to implementing Merge Sort. It was very easy to read and code in Python by just following the book's algorithm.
+I have never programmed in Python, so I have to search for the syntax and look at the examples as I needed.
+First, I tested with command line input n before testing it from bash script. 
+
+Testing Expectations:
+<Describe the results you expected during testing.>
+I wasn't expecting anything shocking with merge sort because no matter what type of data you are passing in,
+first merge() will split the array, then it will sort all items in subarraysys left and right that takes O(nlogn) time before passing in as a input into the mergesort().
+The result will be overlapping. 
+
+
+Testing Observations:
+<Describe what you actually saw as you tested/plotted your results.>
+All three test took similar amount of time. It was really quick to sort data using merge sort algorithm.
+The time complexity was O(nlogn) when it divides the array into subarray. After that the merge will merge the array which takes O(n) time.
+Their timings were overlapping. 
+
+
+Analysis:
+<Did your observations match your expectations?  If they differ, describe why/how.>
+Yes, my observation matched my expectation. I expected overlapping of graph since no matter what data you pass in, it will take almost similar amount of time to sort them. 
+
+
+Take-Away:
+<What do you take away from this experience?>
+Merge sort is better than insertion sort. The time complexity of insertion sort is o(n^2) while merge sort is o(nlogn).

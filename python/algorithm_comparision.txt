@@ -1,0 +1,40 @@
+Nisha Patel
+CSCI 430
+Fall, 2017
+Algorithm Comparision: 3
+
+Implementation:
+Overall, experience was amazing. I learned a lot the time complexity and how the Big-O complexity changes if you feed different data.
+
+
+Testing Expectations:
+
+I have expected the time complexity for mergeSort, heapSort and quickSort as O(nlogn) in all three cases.
+I have also expected the time complexitiy for mergeSort, qucik_random_pivot, heapSort, and quickSort have linear.
+It all depends on the size of the data.
+
+
+Testing Observations:
+
+I saw that zic-zac curves in mergeSort, heapSort, and qucikSort. They were similar to each other.
+When feeding reverse data, insertSort and selectionSort had overlapping in their graph. It was laying on top
+of each other. Similarly, qucik_random_pivot, heapSort, and quickSort were also overlapping.
+The lines were going over each other.
+
+Clearly, mergeSort, qucik_random_pivot, heapSort, and quickSort have linear curnve and insertSort, selectionSort, and bubbleSort had logrithmic.
+
+Clearly, bubbleSort is the worst amongst all becuase it is O(n^2)
+When the size of the data is smaller, mergeSort and insertSort works best. Otherwise, heapSort and quickSort beats the rest when
+the data is larger. 
+
+
+My observations matched my expectations after plotting all the algorithms together and comparing each cases with each other.
+It make sense about the Big-O complexity. 
+
+
+Take-Away:
+
+The worstcase is always between O(n log n) - O(n^2) and bubbleSort and insertSort showed O(n).
+The take away from this experince is when data is smaller, use mergeSort or insertSort and when data is larger,
+use heapSort or quickSort.
+

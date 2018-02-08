@@ -1,0 +1,24 @@
+<Nisha Patel>
+<CSCI 430>
+<Fall, 2017>
+<2: Max Sub Array Report>
+
+Implementation:
+
+<I chose Python to implementation the algorithms. It was very easy to read and code in Python by just following the book's algorithm.
+First, I tested with command line input n and the example we worked in class before testing it from bash script.>
+
+
+Testing Expectations:
+<My exception was that it will return low, high, and sum from n random data. I expected similar results as the in class example. It was straight forward>
+
+
+Testing Observations:
+<I observed that it the timing for every n was closing to each other. A graph is increasing at a decent speed and it levels off. It doesn’t looks like blogs though> 
+
+
+Analysis:
+<I expected the graph should look like nlogn, but it is not. >
+
+Take-Away:
+<I took away that finding a max sub array was really fast. >

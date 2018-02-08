@@ -1,0 +1,54 @@
+Nisha Patel
+CSCI 430
+Fall, 2017
+Heap Sort, Quick Sort,
+Random Pivot Quick Sort : 3
+
+Implementation:
+
+I chose Python to implementation the algorithms. It was very easy to read and code in Python by just following the book's algorithm.
+First, I tested with command line input n before testing it from bash script.
+
+I was having having a hard time figuring out the heapSort. First, it was only sorting some elements in the array.
+It took me two days to figure out what was wrong. The solution to the problem was passing a size into max_hepify and buil_max_heap and
+leave a white space in the begining of the array.
+
+With the quickSort, I had some difficulties with the length of the array, but it wasn't too bad as the heapSort becasue I was unalbe to trace my error. 
+
+
+Testing Expectations:
+
+With the heapSort, I expected similar result as mergeSort because it swap all elements to order the array even if the array is ordered.
+It is a every efficeint algorithms when we are sorting an unordered data.No matter what data you feed in, it will take about the
+same time to sort them.
+
+In quickSort, you do many comparisons, but it is not necessary that you will swap the elements like mergeSort or heapSort. 
+With the quickSort,I expected similar result as mergeSort because it is partitioning data into many sub araays until it sorts everything.
+quickSort is always chossing last element as a pivot so it is not doing any good.
+
+With the quickSort_ramdom_pivot, it is quick amazing because it runs much faster than heapSort, mergeSort or quickSort. 
+
+
+
+Testing Observations:
+
+I saw that heapSort and quickSort graphs look very similar. They have indentical curve. 
+With the heapSort, feeding random data took longer than ordered or reverse data. The difference between feeding ordered and reverse wasn't much.
+With the quickSort,clearly passing a ordered data took longer (worst case). Compare to feeding random or reverse data, ordered data is slower and time consuming.
+With the quickSort_ramdom_pivot, feeding random data took longer than ordered or reverse. The difference between feeding ordered and reverse wasn't much.
+
+Analysis:
+
+My observations matched my expectations for the heapSort. I have expected a graph that is incresing (taking stairs or zic-zac).
+My observations somewhat matched my expectations with quickSort because I expected that since quickSort is doing so many comparasion,
+it would take longer than the heapSort. I expected a graph that is somewhat increasing ;however, it looks similair to heapSort(taking staris or aic-zac).
+My observations didn't matched my expectations with quickSort_ramdom_pivot because I didn't expected that it would be that faster compare to all other
+algorithms that we have seen so far. The comparison and swapping was constant time. 
+
+Take-Away:
+<What do you take away from this experience?>
+I took away that quickSort_ramdom_pivot amazed me when I plotted the result and it is faster amongst the all other alrogithms. Both heapSort and quickSort works great when the data size is larger.
+
+
+
+

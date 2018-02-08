@@ -1,0 +1,24 @@
+<Nisha Patel>
+<CSCI 430>
+<Fall, 2017>
+<2: Bubble and Selection Sort Report>
+
+Implementation:
+
+<I chose Python to implementation the algorithms. It was very easy to read and code in Python by just following the book's algorithm.
+First, I tested with command line input n before testing it from bash script.>
+
+
+Testing Expectations:
+<I expected almost same results as I have on the graph. I expected overlapping. I wasn’t sure how compact the graphs are going to be.>
+
+
+Testing Observations:
+<Clearly, selection sort is more compact than the bubble sort. However, with bubble sort when I used random numbers, the graph was going up and suddenly it started decreasing after n = 8000 which was a bit odd and it slowly started increasing  when n =8500.> 
+
+
+Analysis:
+<It matched my exceptions. I had expected overlapping. I didn’t know how compact it would be until I plotted the points. I knew it was O(n^2).>
+
+Take-Away:
+<I took way that both algorithms were O(n^2), and the results were what I had expected. There wasn’t anything shocking.>
