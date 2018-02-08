@@ -1,0 +1,12 @@
+e001    Martin  57000   \N      CLT
+e002    West    39000   e001    CLT
+e003    Wilson  64000   \N      DAT
+e004    Patel   48000   e003    DAT
+e005    Rae     42000   e001    CLT
+e006    Jones   36000   e003    DAT
+e007    Dunn    52000   e003    PRG
+e008    Chen    49000   e001    CLT
+e009    Smith   32000   e001    ADM
+e010    Gomez   45000   e003    DAT
+e011    Wilson  50000   e003    SLS
+e012    Monet   54000   e003    DAT

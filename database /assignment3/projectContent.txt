@@ -1,0 +1,8 @@
+p10010  Brooks Data Con 9500    15-Mar-07
+p10011  Brooks Implemen 11500   22-Mar-07
+p10012  RMK Data Cleanu 5400    01-Feb-07
+p10013  Sterling Implem 12000   31-Mar-07
+p10014  Matterson Repor 5400    15-Jan-07
+p10015  Speiker Data Co 12000   03-Mar-07
+p10016  Wesley Reports  2500    01-Mar-07
+

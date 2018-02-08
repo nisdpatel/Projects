@@ -1,0 +1,5 @@
+ADM     Administration  100
+CLT     Client Services 101
+DAT     Data Conversion 102
+PRG     Programming     103
+SLS     Sales           104
